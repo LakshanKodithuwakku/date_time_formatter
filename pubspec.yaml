@@ -1,6 +1,6 @@
 name: date_time_formatter
 description: This have only one format for the time
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/LakshanKodithuwakku/date_time_formatter.git
 
 environment:
