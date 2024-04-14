@@ -4,7 +4,7 @@ This package takes UNIX (milliseconds) timestamps and converts them to pretty, h
 Add the package to your pubspec.yaml
 ```dart
 dependencies:
-date_time_formatter 0.0.2+1
+date_time_formatter 0.0.2+2
 ```
 Import the library in a .dart file
 ```dart
