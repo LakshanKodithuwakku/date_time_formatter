@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.2+1
 
-This is test version of this package
+This is latest version of this package
